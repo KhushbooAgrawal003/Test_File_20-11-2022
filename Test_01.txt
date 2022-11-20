@@ -1,0 +1,1 @@
+Hello. Thsi is my 1st git text file for testing purpose.
